@@ -1,0 +1,42 @@
+ejercicio - instrucciones:
+NO SE OLVIDE CREAR UN PROGRAMA A PRUEBA DE FALLOS
+
+Crear un menu que opere las siguientes opciones
+1. piramide de numeros
+2. cuadrado
+3. Numero mersenee
+4. salir del sistema
+
+1. Debe solicitar un numero e imprimir en pantalla
+una piramide de numeros ejemplo:
+	1
+	12
+	123
+	1234
+	12345
+	1234
+	123
+	12
+	1
+ 
+
+2. Debe imprimir la siguiente figura
+	**********
+	**********
+	**********
+	**********
+	**********
+	**********
+
+3.Teoria:
+Se le llama primo de Mersenne a un número primo de la forma 2^n - 1
+esto quiere decir que todo numero que pasa por esta formula
+y da como resultado un numero primo es primo de mersenee.
+
+Usted como programador debe solicitar un numero y aplicar dicha
+formula y si este le da un primo debe mostrar una leyenda que diga
+"Es primo de mersenee" sino "No es primo de mersennee"
+
+4. solo por esta opcion debe finalizar el programa
+    utilizar la opcion de yes-no
+
